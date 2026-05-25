@@ -58,7 +58,6 @@ Passionate Computer Science graduate focused on building scalable, real-world we
 
 ## 📈 Coding Profiles
 
-- 💻 LeetCode: https://leetcode.com/nikhil_008tiwari
 - 🛠️ GitHub: https://github.com/nikhil-tiwari26
 - 🔗 LinkedIn:  https://www.linkedin.com/in/nikhil-tiwari-962014250
 
