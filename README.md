@@ -1,80 +1,68 @@
-# Hi there, I'm Nikhil Tiwari 👋
+# Hi 👋, I'm Nikhil Tiwari
 
-## 🚀 Full Stack Developer | Java & DSA Enthusiast | MERN Stack Developer
+### Full Stack Developer | MERN Stack | Java | AI-Powered Applications
 
-Passionate Computer Science graduate focused on building scalable, real-world web applications and improving problem-solving skills through Data Structures & Algorithms.
+I'm a Computer Science undergraduate passionate about building scalable web applications and solving real-world problems through technology.
 
----
+* 🔭 Currently building AI-powered full-stack applications
+* 🌱 Learning System Design and Advanced Backend Development
+* 💻 Strong in MERN Stack (MongoDB, Express.js, React.js, Node.js)
+* 🧠 Solved 200+ DSA problems in Java
+* 🚀 Experience with JWT, RBAC, Socket.io, MongoDB Atlas, Cloudinary, Vercel, and Render
+* 📫 Reach me at: [nikhilt6395@gmail.com](mailto:nikhilt6395@gmail.com)
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🚀 Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- Bootstrap
-- Material UI
+### Languages
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+Java • JavaScript • HTML • CSS
 
-### 🗄️ Database
-- MongoDB
-- MySQL
+### Frontend
 
-### 🧠 Core CS
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
+React.js • Tailwind CSS • Bootstrap • Material UI • Context API
 
----
+### Backend
 
-## 🔥 Featured Projects
+Node.js • Express.js • REST APIs • Socket.io
 
-### 🏥 AI-Powered Personal Health Companion
-- Full-stack healthcare platform using MERN stack
-- AI-based symptom checker & chatbot
-- JWT authentication & role-based authorization
-- RESTful APIs for health tracking and records
+### Database
 
-### 🎥 Real-Time Video Conferencing System
-- Multi-user video conferencing using WebRTC & Socket.IO
-- Real-time chat and signaling system
-- Low-latency peer-to-peer communication
+MongoDB • Mongoose • MySQL
 
-### 🌐 Professional Social Media Platform
-- LinkedIn-inspired networking platform
-- Posts, connections, likes, comments, and notifications
-- Scalable backend APIs and responsive frontend
+### Cloud & Tools
 
----
+Git • GitHub • Postman • Vercel • Render • MongoDB Atlas • Cloudinary
 
-## 📈 Coding Profiles
+## Featured Projects
 
-- 🛠️ GitHub: https://github.com/nikhil-tiwari26
-- 🔗 LinkedIn:  https://www.linkedin.com/in/nikhil-tiwari-962014250
+### AI-Powered Personal Health Companion
 
----
+* Real-time Doctor-Patient Chat
+* AI Symptom Checker
+* Personalized Diet Planner
+* JWT Authentication & RBAC
+* MERN Stack + Socket.io
 
-## 🏆 Achievements
+### AI-Powered Used Car Verification Platform
 
-- Solved 200+ DSA problems on coding platforms
-- Strong understanding of arrays, trees, graphs, DP & sliding window
-- Passionate about scalable software engineering and backend systems
+* AI-Based Risk Analysis
+* Vehicle Verification System
+* Cloudinary Integration
+* JWT Authentication & RBAC
+* Admin Dashboard
 
----
+## Core Computer Science Skills
 
-## 📫 Connect With Me
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+* Software Engineering
 
-- Email: nikhilt6395@gmail.com
+## Connect With Me
 
----
+* LinkedIn: https://www.linkedin.com/in/nikhil-tiwari-962014250
+* GitHub: https://github.com/nikhil-tiwari26
 
-⭐ Always learning, building, and improving.
+⭐ Always interested in learning, building, and contributing to impactful software products.
